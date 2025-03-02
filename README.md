@@ -1,5 +1,3 @@
-# Spam_Detector
-
 # Overview
 
 Spam Detector is a machine learning-based project designed to classify messages as either spam or ham (not spam). The project utilizes natural language processing (NLP) techniques to extract relevant text features and build a classification model to detect spam messages accurately.
